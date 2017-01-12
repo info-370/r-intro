@@ -6,9 +6,9 @@
 setwd('~/Documents/info-370/r-intro/ed-cost/')
 
 # Install external libraries for use - only needs to be done once on your machine
-# install.packages(dplry) 
-# install.packages(plotly)
-# install.packages(stringr)
+# install.packages('dplry') 
+# install.packages('plotly')
+# install.packages('stringr')
 
 # Load the libraries into R - needs to be done each time you want to use the library
 library(dplyr) 
@@ -20,7 +20,7 @@ library(plotly)
 par(mar=c(5,8,4,2))
 
 # Load data into R using the `read.csv` function
-ed.data <- read.csv('./data/cost-data.csv')
+ed.data <- read.csv('./data/cost-data.csv', stringsAsFactors = FALSE))
 
 #### Getting to know your data #####
 

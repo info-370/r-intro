@@ -4,7 +4,7 @@
 students <- c('Rashmi', 'Amelia', 'Allen')
 
 # Create a vector `math.grades` that represents grades for each person (0 - 100 scale)
-math.grade <- c(97, 95, 96)
+math.grades <- c(97, 95, 96)
 
 # Create a vector `spanish.grades` that represents grades for each person (0 - 100 scale)
 spanish.grades <- 97:99
