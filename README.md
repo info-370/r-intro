@@ -6,7 +6,7 @@ R is one of the leading programming languages in the data science community. It 
 This introduction is brief and designed for individuals with functional programming experience. For a more descriptive set of exercises, please see the [INFO-201 learning modules](https://github.com/info-201).
 
 ## Resources
-In addition the the modules listed above, here are a few helpful resources for getting started with R:
+In addition to the modules listed above, here are a few helpful resources for getting started with R:
 
 - [DataCamp Interactive Tutorials](https://www.datacamp.com/home)
 - [R Tutorial Introduction](http://www.r-tutor.com/r-introduction)
